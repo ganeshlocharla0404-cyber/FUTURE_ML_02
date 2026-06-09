@@ -1,0 +1,6 @@
+ticket_text,clean_text,predicted_category,predicted_priority
+Payment was deducted twice and this has revenue impact for customers affected by billing errors.,payment deducted twice revenue impact customers affected billing errors,Billing,High
+The dashboard export fails with a server error and our operations team cannot send reports to customers.,dashboard export fails server error operations team cannot send reports customers,Technical Issue,High
+I need help understanding pricing plans for a growing startup team.,need help understanding pricing plans growing startup team,General Query,Medium
+A new employee cannot activate their invite link and needs account access today.,new employee cannot activate their invite link needs account access today,Account,High
+Webhook delivery is delayed and production order sync is blocked for many customers.,webhook delivery delayed production order sync blocked many customers,Technical Issue,High
